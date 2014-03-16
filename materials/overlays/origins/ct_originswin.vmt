@@ -1,0 +1,9 @@
+"Refract"
+{
+	"$REFRACTTINTtexture" "overlays/origins/ct_originswin"
+	"$model" 1
+ 	"$refractamount" "0"
+ 	"$bluramount" "0"
+	"$translucent" 1
+	"$scale" "[1 1]"
+}

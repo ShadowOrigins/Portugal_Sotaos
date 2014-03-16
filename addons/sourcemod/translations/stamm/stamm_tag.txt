@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetTag"
+	{	
+		"#format"   "{1:s}"
+		"en"        "Ganham a Tag VIP: {1} (Defeito: desligada)"
+		"de"        "Bekommen den VIP Tag: {1} (Default: off)"
+	}
+}

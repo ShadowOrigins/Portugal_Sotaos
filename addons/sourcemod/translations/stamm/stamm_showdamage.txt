@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetShowDamage"
+	{
+		"en"        "Podem ver o dano Causado!"
+		"de"        "Sehe den Schaden, den du gemacht hast"
+	}
+}

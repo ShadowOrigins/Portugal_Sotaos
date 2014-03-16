@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetColoredSmokes"
+	{
+		"en"        "Ganham Smokes com Cor"
+		"de"        "Bekomme farbige Rauchgranaten"
+	}
+}

@@ -1,0 +1,57 @@
+"ModelSettings"
+{	
+	"VIP Leet"
+	{
+		"team"				"2"
+		"model"		 	  	"models/player/slow/50cent/slow.mdl"
+		"name"		  	 	"50Cent VIP"
+		"level"				"Especial"
+	}
+	
+	"VIP Phoenix"
+	{
+		"team"				"2"
+		"model"				"models/player/stenli/girl_cowboy.mdl"
+		"name"				"Girl Cowboy"
+		"level"				"Especial"
+	}
+	
+	"VIP Arctic"
+	{
+		"team"				"2"
+		"model"				"models/player/natalya/umbrella_arctic/umbrella_arctic.mdl"	
+		"name"				"Umbrella VIP"
+		"level"				"Especial"
+	}
+	
+	"VIP GSG 9"
+	{
+		"team"				"3"
+		"model"		 	  	"models/player/stenli/combat_gir.mdl"
+		"name"		  	 	"Girl VIP"
+		"level"				"Especial"
+	}
+	
+	"VIP Urban"
+	{
+		"team"				"3"
+		"model"		 	  	"models/player/kirby/vip/kirby_urban.mdl"
+		"name"		  	 	"Urban VIP"
+		"level"				"Especial"
+	}
+	
+	"VIP Sas"
+	{
+		"team"				"3"
+		"model"				"models/player/dvshunter/specialforces/ct_urban.mdl"
+		"name"				"Special Forces"
+		"level"				"Especial"
+	}
+	"VIP GIGN"
+	{
+		"team"				"3"
+		"model"				"models/player/tiera/fsb/ct_urban.mdl"
+		"name"				"Specnaz VIP"
+		"level"				"Especial"
+	}
+}

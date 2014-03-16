@@ -1,0 +1,8 @@
+"Phrases"
+{
+	"GetNoFallDamage"
+	{	
+		"en"        "Nao perdem dano nas quedas!"
+		"de"        "Hab keinen Fallschaden"
+	}
+}

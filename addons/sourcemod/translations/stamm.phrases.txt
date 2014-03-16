@@ -1,0 +1,363 @@
+"Phrases"
+{
+	"aborted"
+	{
+		"en"        "cancelado"
+		"de"        "Abgebrochen"
+	}
+	"Round"
+	{
+		"en"        "ronda"
+		"de"        "Runde"
+	}
+	"Kill"
+	{
+		"en"        "assassinato"
+		"de"        "Kill"
+	}
+	"Minute"
+	{
+		"en"        "Minuto(s)"
+		"de"        "Minute(n)"
+	}
+	"Points"
+	{
+		"en"        "Pontos VIP"
+		"de"        "Stamm Punkte"
+	}
+	"Flag"
+	{
+		"en"        "Permissao"
+		"de"        "Flag"
+	}
+	"VIP"
+	{
+		"en"        "VIP"
+		"de"        "VIP"
+	}
+	"PointInfo"
+	{
+		"en"        "Ganhas 1 ponto VIP com:"
+		"de"        "Du bekommst 1 Stamm Punkt mit:"
+	}
+	"NewPointsKill"
+	{
+		"#format"   "{1:i}"
+		"en"        "You got {mediumseagreen}{1} Stamm Point/s for {strange}killing a player"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}das Töten eines Spielers erhalten"
+	}
+	"NewPointsRound"
+	{
+		"#format"   "{1:i}"
+		"en"        "You got {mediumseagreen}{1} Stamm Point/s for {strange}a new round"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}eine neue Runde erhalten"
+	}
+	"NewPointsTime"
+	{
+		"#format"   "{1:i},{2:i}"
+		"en"        "Recebeste {mediumseagreen}{1} Ponto VIP por {strange}jogares {2} minutos"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkt/e für {strange}das Spielen von {2} Minute/n erhalten"
+	}
+	"InfoTyp"
+	{
+		"#format"   "{1:s}"
+		"en"        "esta ativado, {mediumseagreen}escreve {1} {strange}para veres os teus {mediumseagreen}pontos VIP atuais"
+		"de"        "ist aktiviert, {mediumseagreen}schreibe {1} {strange}um deine {mediumseagreen}aktuellen Stamm Punkte {strange}zu sehen"
+	}
+	"InfoTypInfo"
+	{
+		"#format"   "{1:s}"
+		"en"        "Escreve {mediumseagreen}{1}{strange}, para veres todas as infos {mediumseagreen}sobre o VIP"
+		"de"        "Schreibe {mediumseagreen}{1}{strange}, um alle Vorzüge {mediumseagreen}von Stamm {strange}zu sehen"
+	}
+	"DeletedPoints"
+	{
+		"#format"   "{1:s}"
+		"en"        "Stamm Points {mediumseagreen}of {1} {strange}deleted!"
+		"de"        "Stamm Punkte {mediumseagreen}von {1} {strange}wurden gelöscht!"
+	}
+	"YourDeletedPoints"
+	{
+		"en"        "Os teus Pontos VIP {mediumseagreen}foram reiniciados!!"
+		"de"        "Deine Stamm Punkte {mediumseagreen}wurden zurückgesetzt!"
+	}
+	"AllLevels"
+	{
+		"en"        "Visao geral de Niveis"
+		"de"        "Level Übersicht"
+	}
+	"ChoosePlayer"
+	{
+		"en"        "Escolhe um Jogador"
+		"de"        "Wähle einen Spieler"
+	}
+	"ChooseFeature"
+	{
+		"en"        "Escolhe uma vantagem"
+		"de"        "Wähle ein Feature"
+	}
+	"NoRanks"
+	{
+		"en"        "Jogadores VIP {strange}nao foram encontrados"
+		"de"        "{mediumseagreen}Es wurden {strange}keine Spieler {mediumseagreen}gefunden!"
+	}
+	"Rank"
+	{
+		"#format"   "{1:i},{2:i}"
+		"en"        "Estas em {mediumseagreen}{1}. Lugar{strange} com {mediumseagreen}{2} Pontos VIP"
+		"de"        "Du bist auf dem {mediumseagreen}{1}. Platz{strange} mit {mediumseagreen}{2} Stamm Punkten"
+	}
+	"NoVIPClient"
+	{
+		"#format"   "{1:i},{2:i},{3:s},{4:s}"
+		"en"        "Tens {mediumseagreen}{1} Pontos VIP{strange}, precisas ainda de{mediumseagreen} {2} pontos {strange}para te tornares {3}{4}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}, du brauchst noch{mediumseagreen} {2} Punkte {strange}um {3}{4} zu werden"
+	}
+	"VIPClient"
+	{
+		"#format"   "{1:i},{2:s},{3:s}"
+		"en"        "Tens {mediumseagreen}{1} Pontos VIP{strange}, es {2}{3}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}, du bist {2}{3}"
+	}
+	"NoVIPClientPlain"
+	{
+		"#format"   "{1:i},{2:i},{3:s},{4:s}"
+		"en"        "Tens {1} Pontos VIP, precisas ainda de {2} pontos para te tornares {3}{4}"
+		"de"        "Du hast {1} Stamm Punkte, du brauchst noch {2} Punkte um {3}{4} zu werden"
+	}
+	"VIPClientPlain"
+	{
+		"#format"   "{1:i},{2:s},{3:s}"
+		"en"        "Tens {1} Pontos VIP, es {2}{3}"
+		"de"        "Du hast {1} Stamm Punkte, du bist {2}{3}"
+	}
+	"NoVIPAll"
+	{
+		"#format"   "{1:s},{2:i},{3:i},{4:s},{5:s}"
+		"en"        "{mediumseagreen}{1} {strange}has {mediumseagreen}{2} Stamm Points{strange}, he needs still{mediumseagreen} {3} points {strange}to become {4}{5}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}, er braucht noch{mediumseagreen} {3} Punkte {strange}um {4}{5} zu werden"
+	}
+	"VIPAll"
+	{
+		"#format"   "{1:s},{2:i},{3:s},{4:s}"
+		"en"        "{mediumseagreen}{1} {strange}has {mediumseagreen}{2} Stamm Points{strange}, he's {3}{4}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}, er ist {3}{4}"
+	}
+	"VIPClientZero"
+	{
+		"#format"   "{1:i}"
+		"en"        "Tens {mediumseagreen}{1} Pontos VIP{strange}"
+		"de"        "Du hast {mediumseagreen}{1} Stamm Punkte{strange}"
+	}
+	"VIPClientPlainZero"
+	{
+		"#format"   "{1:i}"
+		"en"        "Tens {1} Pontos VIP"
+		"de"        "Du hast {1} Stamm Punkte"
+	}
+	"VIPAllZero"
+	{
+		"#format"   "{1:s},{2:i}"
+		"en"        "{mediumseagreen}{1} {strange}has {mediumseagreen}{2} Stamm Points{strange}"
+		"de"        "{mediumseagreen}{1} {strange}hat {mediumseagreen}{2} Stamm Punkte{strange}"
+	}
+	"LevelNowVIP"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"        "{1} tornou-se {mediumseagreen}agora VIP {2}"
+		"de"        "{mediumseagreen}{1} {strange}ist jetzt {mediumseagreen}{2} VIP"
+	}
+	"LevelNowLevel"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"        "{1} tornou-se {mediumseagreen}agora {2}"
+		"de"        "{mediumseagreen}{1} {strange}ist jetzt {mediumseagreen}{2}"
+	}
+	"JoinVIP"
+	{
+		"en"        "{mediumseagreen}Re-entra no servidor {strange}para obteres {mediumseagreen}todas as vantagens do VIP!"
+		"de"        "{mediumseagreen}Rejoine {strange}um {mediumseagreen}alle Features {strange}zu bekommen"
+	}
+	"StammPoints"
+	{
+		"en"        "Os teus pontos VIP:"
+		"de"        "Deine Stamm Punkte:"
+	}
+	"StammTop"
+	{
+		"en"        "VIP Top 10:"
+		"de"        "Stamm Top 10:"
+	}
+	"StammRank"
+	{
+		"en"        "O teu rank VIP:"
+		"de"        "Dein Stamm Rank:"
+	}
+	"StammChange"
+	{
+		"en"        "Muda as tuas Vantagens:"
+		"de"        "Features an/aus stellen:"
+	}
+	"Close"
+	{
+		"en"        "Fechar"
+		"de"        "Schließen"
+	}
+	"Reset"
+	{
+		"en"        "Reiniciar"
+		"de"        "Zurücksetzen"
+	}
+	"Back"
+	{
+		"en"        "Voltar"
+		"de"        "Zurück"
+	}
+	"HaveFeatures"
+	{
+		"en"        "As seguintes vantagens estao disponiveis:"
+		"de"        "Folgende Features sind verfügbar:"
+	}
+	"ChangeFeatures"
+	{
+		"en"        "Ativa/Desativa vantagens:"
+		"de"        "Aktiviere/Deaktivere laufende Features:"
+	}
+	"FeatureOn"
+	{
+		"#format"   "{1:s}"
+		"en"        "Desativar {1}"
+		"de"        "Deaktiviere {1}"
+	}
+	"FeatureOff"
+	{
+		"#format"   "{1:s}"
+		"en"        "Ativar {1}"
+		"de"        "Aktiviere {1}"
+	}
+	"AdminMenu"
+	{
+		"en"        "Menu de Admin"
+		"de"        "Admin Menü"
+	}
+	"PointsOfPlayer"
+	{
+		"en"        "Add Stamm Points to a player"
+		"de"        "Stamm Punkte einem Spieler hinzufügen"
+	}
+	"StammCMD"
+	{
+		"en"        "Comandos do VIP"
+		"de"        "Stamm Befehle"
+	}
+	"StammFeatures"
+	{
+		"en"        "Vantagens do VIP"
+		"de"        "Stamm Features"
+	}
+	"ResetPlayer"
+	{
+		"en"        "Reset Stamm Points of a player"
+		"de"        "Spieler Stamm Punkte zurücksetzen"
+	}
+	"HappyHour"
+	{
+		"en"        "Start Happy Hour"
+		"de"        "Happy Hour starten"
+	}
+	"HappyHourEnd"
+	{
+		"en"        "Stop Happy Hour"
+		"de"        "Happy Hour stoppen"
+	}
+	"WritePoints"
+	{
+		"en"        "Write now{mediumseagreen} the number of Stamm Points {strange}to add {mediumseagreen}in your chat"
+		"de"        "Schreibe nun{mediumseagreen} die Anzahl der Stamm Punkte {strange}zum addieren {mediumseagreen}in deinen Chat"
+	}
+	"WritePointsInfo"
+	{
+		"en"        "Message {mediumseagreen}with one space {strange}= {mediumseagreen}abort"
+		"de"        "Nachricht {mediumseagreen}mit einem Leerzeichen {strange}= {mediumseagreen}Abbruch"
+	}
+	"SetPoints"
+	{
+		"#format"   "{1:s},{2:i}"
+		"en"        "Stamm Points of {mediumseagreen}{1} {strange}were set to {mediumseagreen}{2}"
+		"de"        "Stamm Punkte von {mediumseagreen}{1} {strange}wurden auf: {mediumseagreen}{2} {strange}gesetzt"
+	}
+	"SetPoints2"
+	{
+		"#format"   "{1:i}"
+		"en"        "{mediumseagreen}Your Stamm Points {strange}were set to {mediumseagreen}{1}"
+		"de"        "{mediumseagreen}Deine Stamm Punkte {strange}wurden auf {mediumseagreen}{1} {strange}gesetzt!"
+	}
+	"WriteHappyFactor"
+	{
+		"en"        "{mediumseagreen}Now type {strange}the multiplication factor {mediumseagreen}in the chat"
+		"de"        "{mediumseagreen}Schreibe nun {strange}den Multiplikationsfaktor {mediumseagreen}in den Chat"
+	}
+	"WriteHappyFactorInfo"
+	{
+		"en"        "If smaller {mediumseagreen}than 2 {strange}= {mediumseagreen}abort"
+		"de"        "Wenn kleiner {mediumseagreen}als 2 {strange}= {mediumseagreen}Abbruch"
+	}
+	"WriteHappyTime"
+	{
+		"en"        "{mediumseagreen}Now type {strange}the duration (in minutes) {mediumseagreen}in the chat"
+		"de"        "{mediumseagreen}Schreibe {strange}die Dauer(in Minuten) {mediumseagreen}in den Chat"
+	}
+	"WriteHappyTimeInfo"
+	{
+		"en"        "If smaller {mediumseagreen}than 2 {strange}= {mediumseagreen}abort"
+		"de"        "Wenn kleiner {mediumseagreen}als 2 {strange}= {mediumseagreen}Abbruch"
+	}
+	"HappyRunning"
+	{
+		"en"        "Happy Hour {mediumseagreen}is already active"
+		"de"        "Happy Hour {mediumseagreen}ist schon aktiv"
+	}
+	"HappyNotRunning"
+	{
+		"en"        "Happy Hour {mediumseagreen}is not active"
+		"de"        "Happy Hour {mediumseagreen}ist nicht aktiv"
+	}
+	"HappyActive"
+	{
+		"#format"   "{1:i}"
+		"en"        "Atualmente {mediumseagreen}a Happy Hour {strange}esta ativa. Toda a gente recebe agora {mediumseagreen}{1}x mais pontos VIP"
+		"de"        "Zurzeit ist {mediumseagreen}Happy Hour {strange}aktiv. Jeder bekommt jetzt {mediumseagreen}{1}x mehr Stamm Punkte"
+	}
+	"HappyEnded"
+	{
+		"en"        "A Happy Hour Acabou !!"
+		"de"        "Happy Hour Ende!"
+	}
+	"LoadFeature"
+	{
+		"en"        "Ativar Vantagem"
+		"de"        "Feature aktivieren"
+	}
+	"UnloadFeature"
+	{
+		"en"        "Desativar Vantagem"
+		"de"        "Feature deaktivieren"
+	}
+	"LoadedFeature"
+	{
+		"#format"   "{1:s}"
+		"en"        "Loaded {mediumseagreen}Feature {1}"
+		"de"        "{mediumseagreen}Feature {1} {strange}wurde geladen"
+	}
+	"UnloadedFeature"
+	{
+		"#format"   "{1:s}"
+		"en"        "Unloaded {mediumseagreen}Feature {1}"
+		"de"        "{mediumseagreen}Feature {1} {strange}wurde gestoppt"
+	}
+	"NoFeatureFound"
+	{
+		"en"        "{mediumseagreen}No Feature {strange}was found"
+		"de"        "{mediumseagreen}Es wurde {strange}kein Feature {mediumseagreen}gefunden"
+	}
+}

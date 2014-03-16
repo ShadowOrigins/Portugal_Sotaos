@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"GetAntiFlash"
+	{
+		"en"        "Os VIP's nao podem ser flashados"
+		"de"        "VIP's können nicht geflasht werden"
+	}
+	"GetTeamFlash"
+	{
+		"en"        "Os VIP's nao podem flashar pelos jogadores da mesma equipa"
+		"de"        "VIP's können nicht vom Team geflasht werden"
+	}
+}

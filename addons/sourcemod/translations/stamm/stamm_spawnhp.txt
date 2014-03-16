@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetSpawnHP"
+	{
+		"#format"   "{1:i}"
+		"en"        "Ganham todas as rondas mais {1} de Vida"
+		"de"        "Bekomme jede Runde {1} HP mehr"
+	}
+}

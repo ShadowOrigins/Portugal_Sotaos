@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"GetThrowingKnife"
+	{	
+		"#format"   "{1:i}"
+		"en"        "Ganham {1} facas para atirar!"
+		"de"        "Bekomme {1} Wurfmesser"
+	}
+}

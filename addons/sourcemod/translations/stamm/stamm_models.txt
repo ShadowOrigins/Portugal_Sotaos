@@ -1,0 +1,35 @@
+"Phrases"
+{
+	"GetModel"
+	{
+		"en"        "Ganham Skins VIP"
+		"de"        "Bekomme ein eigenes Model"
+	}
+	"GetModelChange"
+	{
+		"#format"   "{1:s}"
+		"en"        "Ganham Skins VIP ({1})"
+		"de"        "Bekomme ein eigenes Model ({1})"
+	}
+	"ChooseModel"
+	{
+		"en"        "Escolhe uma Skin VIP"
+		"de"        "Wähle ein VIP Model"
+	}
+	"StandardModel"
+	{
+		"en"        "Skin Normal"
+		"de"        "Standard Model"
+	}
+	"NewModel"
+	{
+		"en"        "{mediumseagreen}Na proxima ronda {strange}podes escolher {mediumseagreen}uma Skin Nova!"
+		"de"        "{mediumseagreen}Nächste Runde {strange}kannst du {mediumseagreen}ein neues Model auswählen!"
+	}
+	"ModelChangeCmd"
+	{
+		"#format"   "{1:s}"
+		"en"        "Escolhe uma Skin VIP: {1}"
+		"de"        "Model neu wählen: {1}"
+	}
+}

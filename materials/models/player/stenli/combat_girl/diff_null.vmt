@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\player\stenli\Combat_Girl\glass_C"
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\player\stenli\Combat_Girl/glass_S"
+
+
+// Transparency
+	"$translucent" 1
+	
+	
+}
+
+
